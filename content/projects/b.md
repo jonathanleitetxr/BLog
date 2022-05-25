@@ -1,8 +1,8 @@
 ---
-title: "B"
-date: 2022-05-23T17:36:08+02:00
+title: B
+date: 2022-05-23 15:36:08 Z
 draft: false
-author: "Jo"
+author: Jo
 ---
 
 efzefgzegezgzegez

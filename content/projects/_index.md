@@ -1,8 +1,7 @@
 ---
-title: "Projects"
+title: Projects
 type: page
 ---
-
 
 ### Hello my projects are
 
