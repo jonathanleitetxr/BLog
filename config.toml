@@ -47,6 +47,12 @@ enableRobotsTXT = true
     url = "/activités/"
     weight = 5
 
+    [[menu.main]]
+        identifier = "projects"
+        name = "Projects"
+        url = "/projects/"
+        weight = 4
+
 
   [[menu.main]]
     identifier = "tags"
