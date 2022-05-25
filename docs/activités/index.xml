@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Activités on AIDE</title>
+    <link>http://example.org/activit%C3%A9s/</link>
+    <description>Recent content in Activités on AIDE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 10 May 2022 17:58:36 +0200</lastBuildDate><atom:link href="http://example.org/activit%C3%A9s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First_activité</title>
+      <link>http://example.org/activit%C3%A9s/first_activit%C3%A9/</link>
+      <pubDate>Tue, 10 May 2022 17:58:36 +0200</pubDate>
+      
+      <guid>http://example.org/activit%C3%A9s/first_activit%C3%A9/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
