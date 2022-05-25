@@ -6,8 +6,6 @@ title = "AIDE"
 
 theme = "gokarna"
 
-publishDir = "docs"
-
 # Automatically generate robots.txt
 enableRobotsTXT = true
 
