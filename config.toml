@@ -6,6 +6,10 @@ title = "AIDE"
 
 theme = "gokarna"
 
+contentdir    = "content"
+layoutdir     = "layouts"
+publishdir    = "public"
+
 # Automatically generate robots.txt
 enableRobotsTXT = true
 
