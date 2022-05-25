@@ -1,9 +1,12 @@
 ---
+title: Theme Documentation - Advanced
+date: 2020-05-06 13:29:01 Z
 weight: 15
-title: "Theme Documentation - Advanced"
-date: 2020-05-06T21:29:01+08:00
-description: "Discover how to maximise Gokarna's potential"
-tags: ["installation", "configuration", "markdown"]
+description: Discover how to maximise Gokarna's potential
+tags:
+- installation
+- configuration
+- markdown
 type: post
 ---
 
