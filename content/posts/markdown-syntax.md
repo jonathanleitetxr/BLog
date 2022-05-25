@@ -1,8 +1,12 @@
 ---
-title: "Markdown Syntax Guide"
-date: 2019-06-19
-description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-tags: ["markdown", "css", "html"]
+title: Markdown Syntax Guide
+date: 2019-06-19 00:00:00 Z
+description: Sample article showcasing basic Markdown syntax and formatting for HTML
+  elements.
+tags:
+- markdown
+- css
+- html
 type: post
 weight: 20
 ---
